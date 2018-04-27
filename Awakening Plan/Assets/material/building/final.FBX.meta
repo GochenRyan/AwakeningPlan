@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 5293ad60786286f47bb01d0dde44d7a6
+timeCreated: 1507344013
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cone001
+    100002: //RootNode
+    100004: "\u5207\u9664-\u62C9\u4F38002"
+    100006: "\u5207\u9664-\u62C9\u4F38003"
+    100008: "\u5207\u9664-\u62C9\u4F38004"
+    100010: "\u5207\u9664-\u62C9\u4F38005"
+    100012: "\u5207\u9664-\u62C9\u4F38006"
+    100014: "\u5207\u9664-\u62C9\u4F38007"
+    100016: "\u5207\u9664-\u62C9\u4F38008"
+    100018: "\u5207\u9664-\u62C9\u4F38009"
+    100020: "\u5207\u9664-\u62C9\u4F38010"
+    100022: "\u5207\u9664-\u62C9\u4F38011"
+    100024: "\u5207\u9664-\u62C9\u4F38012"
+    100026: "\u5207\u9664-\u62C9\u4F38013"
+    100028: "\u5207\u9664-\u62C9\u4F38014"
+    100030: "\u5207\u9664-\u62C9\u4F38015"
+    100032: "\u5207\u9664-\u62C9\u4F38016"
+    100034: "\u5207\u9664-\u62C9\u4F38017"
+    100036: "\u5207\u9664-\u62C9\u4F381"
+    100038: "\u76F4\u5706\u67F1\u9F7F\u8F6E"
+    100040: "\u76F4\u5706\u67F1\u9F7F\u8F6E 1"
+    400000: Cone001
+    400002: //RootNode
+    400004: "\u5207\u9664-\u62C9\u4F38002"
+    400006: "\u5207\u9664-\u62C9\u4F38003"
+    400008: "\u5207\u9664-\u62C9\u4F38004"
+    400010: "\u5207\u9664-\u62C9\u4F38005"
+    400012: "\u5207\u9664-\u62C9\u4F38006"
+    400014: "\u5207\u9664-\u62C9\u4F38007"
+    400016: "\u5207\u9664-\u62C9\u4F38008"
+    400018: "\u5207\u9664-\u62C9\u4F38009"
+    400020: "\u5207\u9664-\u62C9\u4F38010"
+    400022: "\u5207\u9664-\u62C9\u4F38011"
+    400024: "\u5207\u9664-\u62C9\u4F38012"
+    400026: "\u5207\u9664-\u62C9\u4F38013"
+    400028: "\u5207\u9664-\u62C9\u4F38014"
+    400030: "\u5207\u9664-\u62C9\u4F38015"
+    400032: "\u5207\u9664-\u62C9\u4F38016"
+    400034: "\u5207\u9664-\u62C9\u4F38017"
+    400036: "\u5207\u9664-\u62C9\u4F381"
+    400038: "\u76F4\u5706\u67F1\u9F7F\u8F6E"
+    400040: "\u76F4\u5706\u67F1\u9F7F\u8F6E 1"
+    2300000: Cone001
+    2300002: "\u5207\u9664-\u62C9\u4F38002"
+    2300004: "\u5207\u9664-\u62C9\u4F38003"
+    2300006: "\u5207\u9664-\u62C9\u4F38004"
+    2300008: "\u5207\u9664-\u62C9\u4F38005"
+    2300010: "\u5207\u9664-\u62C9\u4F38006"
+    2300012: "\u5207\u9664-\u62C9\u4F38007"
+    2300014: "\u5207\u9664-\u62C9\u4F38008"
+    2300016: "\u5207\u9664-\u62C9\u4F38009"
+    2300018: "\u5207\u9664-\u62C9\u4F38010"
+    2300020: "\u5207\u9664-\u62C9\u4F38011"
+    2300022: "\u5207\u9664-\u62C9\u4F38012"
+    2300024: "\u5207\u9664-\u62C9\u4F38013"
+    2300026: "\u5207\u9664-\u62C9\u4F38014"
+    2300028: "\u5207\u9664-\u62C9\u4F38015"
+    2300030: "\u5207\u9664-\u62C9\u4F38016"
+    2300032: "\u5207\u9664-\u62C9\u4F38017"
+    2300034: "\u5207\u9664-\u62C9\u4F381"
+    3300000: Cone001
+    3300002: "\u5207\u9664-\u62C9\u4F38002"
+    3300004: "\u5207\u9664-\u62C9\u4F38003"
+    3300006: "\u5207\u9664-\u62C9\u4F38004"
+    3300008: "\u5207\u9664-\u62C9\u4F38005"
+    3300010: "\u5207\u9664-\u62C9\u4F38006"
+    3300012: "\u5207\u9664-\u62C9\u4F38007"
+    3300014: "\u5207\u9664-\u62C9\u4F38008"
+    3300016: "\u5207\u9664-\u62C9\u4F38009"
+    3300018: "\u5207\u9664-\u62C9\u4F38010"
+    3300020: "\u5207\u9664-\u62C9\u4F38011"
+    3300022: "\u5207\u9664-\u62C9\u4F38012"
+    3300024: "\u5207\u9664-\u62C9\u4F38013"
+    3300026: "\u5207\u9664-\u62C9\u4F38014"
+    3300028: "\u5207\u9664-\u62C9\u4F38015"
+    3300030: "\u5207\u9664-\u62C9\u4F38016"
+    3300032: "\u5207\u9664-\u62C9\u4F38017"
+    3300034: "\u5207\u9664-\u62C9\u4F381"
+    4300000: Cone001
+    4300002: "\u5207\u9664-\u62C9\u4F381"
+    4300004: "\u5207\u9664-\u62C9\u4F38002"
+    4300006: "\u5207\u9664-\u62C9\u4F38003"
+    4300008: "\u5207\u9664-\u62C9\u4F38004"
+    4300010: "\u5207\u9664-\u62C9\u4F38005"
+    4300012: "\u5207\u9664-\u62C9\u4F38006"
+    4300014: "\u5207\u9664-\u62C9\u4F38007"
+    4300016: "\u5207\u9664-\u62C9\u4F38008"
+    4300018: "\u5207\u9664-\u62C9\u4F38009"
+    4300020: "\u5207\u9664-\u62C9\u4F38010"
+    4300022: "\u5207\u9664-\u62C9\u4F38011"
+    4300024: "\u5207\u9664-\u62C9\u4F38012"
+    4300026: "\u5207\u9664-\u62C9\u4F38013"
+    4300028: "\u5207\u9664-\u62C9\u4F38014"
+    4300030: "\u5207\u9664-\u62C9\u4F38015"
+    4300032: "\u5207\u9664-\u62C9\u4F38016"
+    4300034: "\u5207\u9664-\u62C9\u4F38017"
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
